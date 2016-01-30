@@ -2,19 +2,22 @@
 def extraction(docs):
 
     company_tags = ['llc', 'l.l.c', 'inc', 'inc.']
+    compnay_tags_short = ['llc', 'inc']
+    company_dict = {'llc': ['llc', 'l.l.c'], 'inc': ['inc', 'inc.']}
+    company_names = []
 
-    # cleans up the company names
     def clean_company_names(company_names):
+        # cleans up the company names
         company_names = list(set(company_names)) # removes duplicates
         # removes punctuation from the company name
         company_names = [c.replace(',', '') for c in company_names]
         company_names = [c.replace('.', '') for c in company_names]
 
+
+        company_names = [c.lower() for c in company_names]
+
         # removes entries that are only a company tag
         company_names = [c for c in company_names if c.lower() not in company_tags]
-
-        # print('company phase 1')
-        # print(company_names)
 
         # removes entries that are duplicates with extra junk
         new_cn = []
@@ -26,17 +29,13 @@ def extraction(docs):
                     keep = False
                     break
 
-            # print(c1)
-            # print(keep)
-
             if keep:
                 new_cn.append(c1)
 
         company_names = list(new_cn)
-        # print('company phase 2')
-        # print(company_names)
 
         new_cn = []
+
         # removes duplicates with different caps
         for c1 in company_names:
             keep = True
@@ -46,27 +45,84 @@ def extraction(docs):
             if keep:
                 new_cn.append(c1)
 
-        # print('company phase 3')
         # print(new_cn)
+
         return(new_cn)
 
-    # this will be needed for determinaning the relationships 
-    def udpate_sentences():
-        pass
+
+    def combine_entries(list_a, list_b):
+
+        # converts everything to lower
+        list_a = [a.lower() for a in list_a]        
+        list_b = [b.lower() for b in list_b]        
+
+        new_a = list_a
+        offset = 0
+
+        for a in range(len(list_a) - (len(list_b) - 1)):
+
+            # found the begining of the sublist
+            if list_b[0] == list_a[a]:
+                found_b = True
+
+                # checks if the whole thing is there
+                for b in range(1, len(list_b)):
+                    if list_b[b] != list_a[a + b]:
+                        found_b = False
+                        break
+
+                # if we found the whole thing then we modify the list
+                if found_b:
+                    new_entry = list_a[a:(a + len(list_b))]
+                    new_entry = [str(n) for n in new_entry]
+                    new_entry = ' '.join(new_entry)
+                    new_a = new_a[:(a - offset)] + [new_entry] + list_a[(a + len(list_b)):]
+                    offset += len(list_b) - 1
+        
+        return(new_a)
+
+
+    def udpate_sentences(text, comp_names):
+        # this formats the company names so they are a single 
+        # entry in the sentence list
+        for c in comp_names:
+            for i in range(len(text)):
+                txt = text[i]
+                text[i] = combine_entries(txt, c.split())
+
+        return(text)
+
+
+    def standardize_comp_titles(text):
+        # formats the company titles so they are uniform
+        # loops through each sentence
+        for s in text:
+            # initially loops through each word and standarizes
+            # the company titles
+            for w in range(len(s)):
+                if s[w].lower() in company_tags:
+                    for key in company_dict:
+                        if s[w].lower() in company_dict[key]:
+                            s[w] = key
+                            break
+
+        return(text)
 
 
     # loops through the docs
     for i in range(len(docs)):
-        text = docs[i].text
+        text = docs[i].info['text']
 
-        # finds the company names
-        company_names = []
-        # loops through each sentence
+        # standarizes the company titles
+        text = standardize_comp_titles(text)
+        docs[i].info['text'] = text
+
         for s in text:
+
             # loops through each word
             for w in range(len(s)):
                 # sees if the work is in the list of company tags
-                if s[w].lower() in company_tags:
+                if s[w].lower() in compnay_tags_short:
                     # as long as the first letter of the previous word is capitalized we keep going back
                     back_i = 1
                     company_name = s[w]
@@ -79,7 +135,8 @@ def extraction(docs):
                     # print(company_name)
 
         company_names = clean_company_names(company_names) # removes erronious names
-        docs[i].company_names = company_names # adds the company names to the doc object
+        docs[i].info['company_names'] = company_names # adds the company names to the doc object
+        docs[i].info['text'] = udpate_sentences(text, company_names) # updates the sente
 
     # returns the updated docs
     return(docs)
