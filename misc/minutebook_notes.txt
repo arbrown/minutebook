@@ -1,0 +1,4 @@
+ec2-52-33-118-233.us-west-2.compute.amazonaws.com
+
+$ chmod 600 path/to/mykey.pem
+$ ssh -i path/to/mykey.pem ubuntu@ec2-52-33-118-233.us-west-2.compute.amazonaws.com
