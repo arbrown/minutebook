@@ -1,0 +1,857 @@
+Exhibit 3.10
+
+  
+ 
+ 
+ 
+
+  
+ 
+ 
+
+LIMITED LIABILITY COMPANY AGREEMENT
+
+ 
+OF
+ 
+
+GEORGIA GULF CHEMICALS & VINYLS, LLC (now known as Axiall, LLC)
+
+A DELAWARE LIMITED LIABILITY COMPANY
+
+ 
+
+ 
+
+ 
+
+Dated as of
+
+ 
+
+October 8, 1999
+
+ 
+
+ 
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+
+LIMITED LIABILITY COMPANY AGREEMENT
+
+ 
+
+This Limited Liability Company Agreement (this “Agreement”), entered into as of October 8, 1999, is made by GEORGIA GULF
+
+CORPORATION, a Delaware corporation (“GGC”), being the sole member (the “Sole Member”)  of Georgia Gulf Chemicals & Vinyls, LLC, a
+Delaware limited liability company (the “Company”).
+
+1
+
+ 
+WHEREAS, GGC has caused the Company to be organized and desires to enter into this Agreement to provide certain terms for the
+
+governance of the Company and the conduct of its business.
+
+ 
+NOW, THEREFORE, it is agreed as follows:
+ 
+
+ARTICLE I
+
+ 
+
+DEFINITIONS
+
+ 
+
+1.1 Definitions. The following terms shall have the following meanings for all purposes of this Agreement:
+ 
+“Act” shall mean the Delaware Limited Liability Company Act (Delaware Code Annotated, Title 6, §§ 18-101, et seq.) and any successor
+
+thereto, collectively and as from time to time amended and in effect.
+
+ 
+“Affiliate” shall mean, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under common
+control with such Person. For the purposes of this definition, “control” means the possession of the power to direct or cause the direction of
+management and policies of such Person, whether through the ownership of voting securities, by contract or otherwise, or the ownership, directly
+or indirectly, of at least 50% of the voting securities of such Person.
+
+ 
+“Agreement” shall mean this Limited Liability Company Agreement, as originally executed and as amended from time to time.
+ 
+“Bankrupt Member” has the meaning specified in Section 7.7.
+ 
+“Code” shall mean the Internal Revenue Code of 1986, as amended, and the rules and regulations thereunder. References to specific
+
+sections of the Code shall be deemed to include references to corresponding provisions of any successor thereto, collectively and as from time to
+time amended and in effect.
+
+ 
+“Company” shall mean Georgia Gulf Chemicals & Vinyls, LLC, a Delaware limited liability company.
+ 
+
+ Axiall Holdco, Inc. is the successor-in-interest to the interests, rights and obligations of the Sole Member under this agreement.
+
+(1)
+ 
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+
+“Contractual Obligation” shall mean, with respect to any Person, any contract, agreement, deed, mortgage, lease, license, commitment or
+
+understanding, by which the Person is bound.
+
+ 
+“Fiscal Year” shall have the meaning set forth in Section 8.1.
+ 
+“GGC” shall mean Georgia Gulf Corporation, a Delaware corporation.
+ 
+“Governmental Authority” means any court, government (federal, state, local or foreign), department, commission, board, agency, official
+
+or other regulatory, administrative, judicial or governmental authority.
+
+ 
+“Indemnified Persons” shall have the meaning set forth in Section 4.5 hereof.
+ 
+“Interest” shall mean each Member’s entire interest as a Member in the Company including any and all rights and benefits to which the
+
+Member may be entitled under this Agreement and the obligations of the Member under this Agreement.
+
+ 
+“Legal Requirement” shall mean any federal, state, local or foreign law, statute, standard, ordinance, code, order, rule, regulation,
+
+resolution or promulgation, or any order, judgment, requirement or decree of or binding agreement with any Governmental Authority, or any
+applicable license, franchise, permit or similar right granted under any of the foregoing, or any similar provision having the force and effect of law.
+
+ 
+
+“Liquidating Agent” has the meaning specified in Section 7.3.1.
+ 
+
+“Member” shall mean a member of the Company within the meaning of the Act, and its respective permitted successors in interest, or such
+
+other Persons that hereafter are admitted as a substitute or additional Member and are then the owner of an Interest; provided however, that no
+Person shall be deemed to be a Member prior to the effective date of such Person’s admission as a Member or after the earlier of the effective date
+of such Member’s bankruptcy (as events of bankruptcy are defined in Section 18-304 of the Act or any successor provision thereto) or dissolution
+or, with respect to any Member, any other event under the Act which terminates the continued membership of a member of a limited liability
+company.
+ 
+“Membership Percentage” shall mean each Member’s percentage interest in the Company (expressed as a percentage of the whole), which
+
+initially shall be 100% for GGC.
+
+ 
+“Person” shall mean any individual, corporation, limited liability company, partnership, association, trust or other entity or organization.
+ 
+“Tax Matters Partner” has the meaning specified in Section 8.5.1.
+ 
+“Transfer” shall mean any sale, assignment, pledge, hypothecation, encumbrance, disposition, transfer (including, without limitation, a
+
+transfer by will or intestate distribution), gift or attempt to create or grant a security interest in any Interest or any other interest therein or any
+portion thereof, whether voluntary or involuntary, by operation of law or otherwise.
+
+ 
+2
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+1.2 Interpretation. Words of the masculine gender shall be deemed and construed to include correlative words of the feminine and neuter
+
+genders. Words importing the singular number shall include the plural number, and vice versa, unless the context shall otherwise indicate.
+References to Articles, Sections and other subdivisions of this Agreement and Schedules, Appendices and Exhibits to this Agreement are to the
+Articles, Sections and other subdivisions of, and the Schedules, Appendices and Exhibits to, this Agreement.
+
+ 
+
+ 
+ARTICLE II
+
+FORMATION OF THE COMPANY
+
+ 
+
+2.1 Name and Formation. The name of the Company is “Georgia Gulf Chemicals & Vinyls, LLC”. The Company is a limited liability company
+
+organized under the Act. The Sole Member hereby ratifies and confirms the filing of the Company’s Certificate of Formation with the Secretary of
+State of the State of Delaware on October 8, 1999, pursuant to which the Company became duly authorized and formed under the Act. The
+Company is a separate legal entity. The Company and all Interests in the Company will be governed by this Agreement and, except as modified by
+this Agreement, by the Act.
+
+ 
+2.2 Interests. The Company will have a single class of Members. The Interests of Members are personal property and a Member has no
+
+interest in specific property of the Company. The Interests will have the preferences, rights, limitations and restrictions as set forth in this
+Agreement and except for possible different percentages of ownership evidenced thereby all Interests will be of equal standing, and there will be no
+preferences, rights, limitations or restrictions among or between them.
+
+ 
+2.3 Offices. The Company’s initial registered office shall be at the office of The Corporation Trust Company at 1209 Orange Street,
+
+Wilmington, Delaware. The Company may have such offices or places of business, either within or without the State of Delaware, as the Members
+may designate or as the business of the Company may from time to time require. The registered office and the registered agent may be changed
+from time to time by action of the Members and by filing the address of the new registered office and/or the name of the new registered agent with
+the Secretary of State of the State of Delaware pursuant to the Act.
+
+ 
+2.4 Term of the Company. The Company’s existence shall commence on the date when the original Certificate of Formation was filed with
+
+the Secretary of State of the State of Delaware and shall be perpetual.
+
+ 
+2.5 Business Purpose. The Company is organized for the purpose of manufacturing, processing, distributing and selling chemical
+
+products, and for all other lawful business purposes.
+
+ 
+2.6 Foreign Qualification; Fictitious Business Name Statement; Other Certificates. The officers of the Company promptly shall execute,
+
+deliver and file, where required, all certificates, consents to and appointments of agents for service of process, and other documents or instruments
+and perform such acts as may be necessary or appropriate to register the Company as a foreign limited liability company authorized to do business
+in such jurisdictions as the Members
+
+ 
+3
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+shall deem necessary or appropriate in connection with the business of the Company. The officers of the Company shall file, from time to time, such
+fictitious or trade name statements or certificates in such jurisdictions and offices as the Company considers necessary or appropriate. The officers
+of the Company also shall file, from time to time, such certificates of amendment, certificates of cancellation, or other certificates as the Members
+deem necessary under the Act or under the laws of any jurisdiction in which the Company is doing business to establish and continue the
+Company as a limited liability company or to protect the limited liability of the Members.
+ 
+
+ 
+
+ORIGINAL MEMBERS CAPITAL CONTRIBUTIONS;
+
+ARTICLE III
+
+CAPITAL ACCOUNTS
+
+ 
+
+3.1 Capital Contributions. GGC was deemed admitted as the member of the Company as of the effective date of this Agreement. GGC shall
+
+contribute to the Company effective as of the date of this Agreement $1,000.00.
+
+ 
+3.2 Additional Contributions. GGC is not required to make any additional capital contribution to the Company but may make additional
+
+capital contributions to the Company at any time. GGC shall not have any duty or obligation to any creditor of the Company to make any
+contribution to the Company or to issue any call for capital pursuant to this Agreement.
+
+ 
+3.3 Partnership Classification for Tax Purposes. Each Member recognizes and intends that for federal income tax purposes the Company
+
+will be classified as a partnership and that the Tax Matters Partner shall make any election by the Company necessary for such treatment.
+
+ 
+
+ARTICLE IV
+
+MANAGEMENT
+
+ 
+
+4.1 Management by Managers.
+ 
+(a) Board of Managers. The business and affairs of the Company shall be managed by or under the direction of a board of one or more
+
+Managers designated by the Members (the “Board”). The Members in their sole and absolute discretion may determine at any time the number of
+Managers to constitute the Board. The authorized number of Managers may be increased or decreased by the Members at any time in their sole
+and absolute discretion. The initial number of Managers shall be three. Each Manager shall hold office until a successor is designated by the
+Members or until such Manager’s earlier death, resignation or removal. Managers need not be Members. The initial Managers of the Company
+designated by the Members are: Joel I. Beerman, Richard B. Marchese, and Edward A. Schmitt.
+
+ 
+(b) Powers; Duties. The Board of Managers shall have the power to do any and all acts necessary, convenient or incidental to or for the
+
+furtherance of the purposes described herein. The Board of Managers has the authority to bind the Company. The Managers shall have a
+
+ 
+4
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+
+fiduciary duty of loyalty and care similar to that of a director of a business corporation organized under the General Corporation Law of the State of
+Delaware.
+ 
+
+(c) Meeting of the Board of Managers. The Board of Managers of the Company may hold meetings, both regular and special, within or
+
+outside the State of Delaware. Regular meetings of the Board may be held without notice at such time and at such place as shall from time to time be
+determined by the Board. Special meetings of the Board may be called by the President on not less than one day’s notice to each Manager by
+telephone, facsimile, mail, telegram or any other means of communication, and special meetings shall be called by the President or Secretary in like
+manner and with like notice upon the written request of any Manager.
+
+ 
+(d) Quorum; Acts of the Board. At all meetings of the Board, a majority of the Managers shall constitute a quorum for the transaction of
+
+business and, except as otherwise provided in any other provision of this Agreement, the act of a majority of the Managers present at any meeting
+at which there is a quorum shall be the act of the Board. If a quorum shall not be present at any meeting of the Board, the Managers present at such
+meeting may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present. Any
+action required or permitted to be taken at any meeting of the Board may be taken without a meeting if all members of the Board consent thereto in
+writing.
+
+ 
+(e) Electronic Communications. Managers may participate in meetings of the Board by means of telephone conference or similar
+
+communications equipment that allows all persons participating in the meeting to hear each other, and such participation in a meeting shall
+constitute presence in person at the meeting. If all the participants are participating by telephone conference or similar communications equipment,
+the meeting shall be deemed to be held at the principal place of business of the Company.
+
+ 
+(f) Compensation of Managers; Expenses. The Board shall have the authority to fix the compensation of the Managers. No such payment
+
+shall preclude any Manager from serving the Company in any other capacity and receiving compensation therefor.
+
+ 
+(g) Removal of Managers. Unless otherwise restricted by law, any Manager may be removed, with or without cause, by the Members, and,
+
+any vacancy caused by any such removal may be filled by action of the Members.
+
+ 
+(h) Managers as Agents. To the extent of their powers set forth in this Agreement, the Managers are agents of the Company for the
+
+purpose of the Company’s business, and the actions of the Managers taken in accordance with such powers set forth in this Agreement shall bind
+the Company.
+
+ 
+5
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+4.2 Officers and Other Employees.
+ 
+
+ 
+
+4.2.1 Generally. The officers of the Company shall be designated from time to time by the Board of Managers, and such officers
+shall have such duties as the Board of Managers may designate. Such officer may hold such additional titles and designations as the Board may
+establish from time to time. Any number of offices may be held by the same Person. Initially such officers shall include: Edward A. Schmitt as
+President and Chief Executive Officer, Richard B. Marchese as Vice President and Chief Financial Officer, Thomas G. Swanson as Vice President-
+Commodity Chemicals Group, Mark J. Seal as Vice President-Polymer Group, Joel I. Beerman as Vice President-General Counsel and Secretary,
+Micheline A. Johnson as Assistant Secretary and Samuel M. Hensley as Assistant Secretary.
+
+ 
+4.2.2 Compensation. Unless otherwise agreed, the Board of Managers shall fix the compensation of all officers of the Company.
+ 
+4.2.3 Succession. The officers of the Company shall hold office until their successors are elected and qualified unless the Board
+
+of Managers specifies otherwise. Any officer elected or appointed by the Board of Managers may be removed at any time by the affirmative vote of
+a majority of the Board of Managers and any vacancy occurring in any office of the Company may be filled by the Board of Managers.
+
+ 
+4.2.4 Authority and Duties.
+ 
+
+(a) Each officer or employee of the Company, when acting solely with respect to such position and not with respect to any other capacity
+or position such Person may have as a representative of a Member, shall owe to the Company, but not to any Member, all such duties (fiduciary or
+otherwise) as are imposed upon such an officer or employee of a Delaware corporation. Without limitation of the foregoing, each officer and
+employee in any dealings with a Member or any of its Affiliates shall have a duty to act in good faith and to deal fairly. Notwithstanding the
+foregoing, each officer or employee of the Company may also serve as an officer, director or employee of a Member or any Affiliate thereof;
+provided, however, that each such officer or employee shall devote such time to the Company as is necessary to discharge such officer’s or
+employee’s obligations to the Company.
+
+ 
+(b) Each of the officers of the Company shall have such authority and shall perform such duties as are stated in this Agreement, or as may
+
+otherwise be specified by an action of the Board of Managers in a resolution which is not inconsistent with this Agreement. In furtherance of the
+foregoing the officers set forth below shall have the authority and duties specified below.
+
+ 
+
+(i) President. The President shall be responsible for the active management and direction of the business and affairs of the
+Company and general supervision over its officers. The President shall have and is hereby given, full power and authority, except
+as otherwise required by law or directed by the Board of Managers, (a) to execute, on behalf of the Company, all duly authorized
+Contractual Obligations of the Company, applications, consents, proxies and other powers of attorney, and other documents and
+instruments, and (b) to vote and otherwise act on behalf of
+
+ 
+6
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+
+the Company, in accordance with the Board of Managers’ directions, in person or by proxy, at any meeting of securityholders (or
+with respect to any action of such securityholders) of any other corporation in which the Company may hold securities and
+otherwise to exercise any and all rights and powers which the Company may possess by reason of its ownership of securities of
+such other corporation. In addition, the President may delegate to other officers, employees and agents of the Company the
+power and authority to take any action which the President is authorized to take under this Section 4.2, with such limitations as
+the President may specify; such authority so delegated by the President shall not be re-delegated by the person to whom such
+execution authority has been delegated.
+ 
+(ii) Vice President. Each Vice President, however titled, shall perform such duties and services and shall have such authority and
+responsibilities as shall be assigned to or required from time to time by the Board of Managers or the President.
+ 
+(iii) Secretary and Assistant Secretaries. The Secretary shall attend all meetings of the Board of Managers and record all
+proceedings of the meetings of the Board of Managers when requested by the Board of Managers or the President. The
+Secretary shall give, or cause to be given, notice of all meetings of the Board of Managers. The Secretary shall perform such
+duties as may be prescribed by the Board of Managers or the President. The Secretary shall keep and account for all books,
+documents, papers and records of the Company except those for which some other officer or agent has been designated or is
+otherwise properly accountable. Assistant Secretaries, in the order of their seniority, shall assist the Secretary and, if the
+Secretary is unavailable or fails to act, perform the duties and exercise the authorities of the Secretary.
+ 
+(iv) Treasurer and Assistant Treasurers. The Treasurer shall have the custody of the funds and securities belonging to the
+Company and shall deposit all moneys and other valuable effects in the name and to the credit of the Company in such
+depositories as may be designated by the Treasurer with the prior approval of the Board of Managers. The Treasurer shall
+disburse the funds and pledge the credit of the Company as may be directed by the Board of Managers and shall render to the
+Board of Managers and the President and Chief Executive Officer, as and when required by them, or any of them, an account of
+all transactions by the Treasurer. Assistant Treasurers, in the order of their seniority, shall assist the Treasurer and, if the
+Treasurer is unable or fails to act, perform the duties and exercise the powers of the Treasurer.
+ 
+
+4.3 Specific Authority of the Officers. The authority of the officers to conduct the day-to-day business and affairs of the Company will at
+
+all times be subject to the authorization granted by the Members under this Agreement.
+
+ 
+7
+
+ 
+4.4 Power of Attorney.
+ 
+(a) Each Member by its signature below irrevocably makes, constitutes and appoints the President and all Vice Presidents of the Company,
+and each of them, his or its true and lawful attorney in his or its name, place and stead, with the power from time to time to substitute or resubstitute
+one or more others as such attorney, and to make, execute, swear to, acknowledge, verify, deliver, file, record and publish any and all documents,
+certificates or other instruments which may be required or deemed desirable by the Members to (a) effectuate the provisions of any part of this
+Agreement or any amendments to this Agreement, (b) enable the Company to conduct its business or (c) comply with any applicable Legal
+Requirement in connection with the Company’s conduct of its business.
+
+ 
+(b) It is expressly intended by each Member that the foregoing power of attorney is a special power of attorney coupled with an interest in
+favor of each of those appointed as attorney-in-fact on his or its behalf, and as such shall be irrevocable and shall survive such Member’s merger,
+dissolution, other termination of existence or bankruptcy.
+
+ 
+(c) Each Member will promptly execute such instruments as the President of the Company determines to be appropriate to evidence the
+
+authority of the officers of the Company to consummate any transaction permitted by, and authorized in accordance with, this Agreement.
+
+ 
+4.4 Limited Liability. Except as otherwise expressly provided by the Act, the debts, obligations and liabilities of the Company, whether
+
+arising in contract, tort or otherwise, shall be the debts, obligations and liabilities solely of the Company, and neither the Members nor any
+Manager shall be obligated personally for any such debt, obligation or liability of the Company solely by reason of being a member or manager of
+the Company.
+
+ 
+4.5 Indemnity of the Members and Managers.
+ 
+(a) To the full extent permitted by the Act, the Company, to the extent of its assets legally available for that purpose, will indemnify, defend
+
+and hold harmless the Members, Managers, and any member, partner, shareholder, director, officer, agent, Affiliate and professional or other
+advisor of any of them (collectively, the “Indemnified Persons”) from and against any and all loss, cost, damage, expense (including without
+limitation fees and expenses of attorneys and other advisors and any court costs incurred by any Indemnified Person) or liability by reason of
+anything any Indemnified Person does or refrains from doing for, or in connection with the business or affairs of, the Company, except to the extent
+that it is finally judicially determined that such indemnified losses arise out of or were related to actions of such Indemnified Person constituting (a)
+bad faith, fraud, violation of Legal Requirements or intentional misconduct or (b) breach of this Agreement. The Company may pay in advance or
+reimburse reasonable expenses incurred by the Indemnified Person, including advancing reasonable costs of defense, who is or is threatened to be
+named or made a defendant or a respondent in a proceeding concerning the business and affairs of the Company.
+
+ 
+(b) To the extent future enactments or judicial decisions permit an expansion of the rights of indemnification afforded to the Members or
+
+Managers by the Company pursuant to this Section
+
+ 
+8
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+4.5, then it is the Members’ express intention and agreement that this Section 4.5 immediately and automatically will be amended so as to permit and
+authorize the indemnification of the Members and Managers by the Company to the maximum extent permitted by law. The officers of the Company
+and any Member or Manager, are authorized and empowered to execute, on behalf of all Members, such amendments to this Agreement as may be
+appropriate to give further effect to this Section 4.5.
+ 
+
+4.6 Limitations on Indemnity. The Company, with the approval of all the Members, may indemnity any of the Indemnified Persons for any
+loss, cost, damage, expense or liability for which the Indemnified Persons would not be entitled to mandatory indemnification under Section 4.5. An
+Indemnified Person may waive the benefits of indemnification under Section 4.5, but only by an instrument in writing executed by such Indemnified
+Person.
+
+ 
+The rights to indemnification under Section 4.5 are not exclusive of other rights which any Indemnified Person may otherwise have at law
+
+or in equity, including without limitation common law rights to indemnification or contribution. Nothing in this Section 4.6 will affect the rights or
+obligations of any Indemnified Person (or the limitations on those rights or obligations) under any other agreement or instrument to which that
+Indemnified Person is a party.
+
+ 
+ARTICLE V
+
+DIVISION OF PROFITS AND LOSSES
+
+ 
+
+Each of the Members will own a Membership Interest in the Company. All profits and losses of the Company will be shared by each of the
+Members according to the percentage of interest each Member owns. A separate capital account will be maintained for each Member. No Member
+may make any withdrawals from capital without prior approval of the Company. If the capital account of the Member becomes impaired, such
+Member’s share of subsequent Company profits will be first credited to his capital account until that account has been restored.
+
+ 
+
+TRANSFER OF INTERESTS; WITHDRAWAL OF MEMBERS; PURCHASE OPTION
+
+ARTICLE VI
+
+ 
+
+6.1 Scope of this Agreement.
+ 
+(a) The restrictions set forth in this Article VI shall apply to all Interests now owned or hereafter acquired by the Members, whether or not
+
+issued at the date of this Agreement, and no Transfer of any Interest shall take place except as provided in this Article VI.
+
+ 
+6.2 Conditions to Transfers.
+ 
+(a) Any Transfer must receive the unanimous written consent of the Members, which consent may be withheld in their sole discretion, and
+
+must be effected with documentation approved in form and substance by the remaining Member. Such documentation shall include an agreement
+by the transferee to be bound by all of the terms and provisions of this Agreement
+
+ 
+9
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+including, without limitation, an acknowledgment and agreement that the Interest therein transferred shall be subject to the restrictions set forth in
+this Article VI.
+ 
+
+6.3 Records of the Company; Void Transfers. The Company agrees that it will record the Transfer of Interests on its books only in
+
+accordance with the terms and conditions of this Agreement. Any purported Transfer of an Interest by a Member that is not in compliance with the
+terms and conditions of this Agreement will be null and void, and the Transferee under any such purported Transfer will acquire no title or
+ownership thereby.
+
+ 
+6.4 Withdrawal. Except as otherwise provided in this Article VI, no Member may resign from the Company or effect a partial or complete
+withdrawal from the Company or effect a voluntary dissolution or voluntary bankruptcy without first obtaining the written consent of the other
+Members.
+ 
+
+DISSOLUTION AND LIQUIDATION; APPOINTMENT OF NEW MEMBERS
+
+ARTICLE VII
+
+ 
+
+7.1 Dissolution. The Company will be dissolved upon the first to occur of the following events:
+ 
+(a) the unanimous written agreement of all of the Members to dissolve the Company;
+ 
+(b) the sale of all or substantially all the assets of the Company, and
+ 
+(c) the entry of a decree of judicial dissolution under Section 18-802 of the Act.
+ 
+7.2 Certificate of Cancellation. In accordance with the Act, as soon as practicable upon the dissolution of the Company and the completion
+
+of the liquidation of the Company, the Members will cause to be executed and filed a Certificate of Cancellation of the Company in such form as is
+prescribed by the Secretary of State of Delaware.
+
+ 
+7.3 Procedures.
+ 
+
+7.3.1 Liquidation of Assets. Upon dissolution, an accounting shall be made by the Company’s independent accountants of the
+
+accounts of the Company and of the Company’s assets, liabilities and operations, from the date of the last previous accounting until the date of the
+dissolution. A Person designated by the Members by unanimous consent or the Person required by law to wind up the Company’s affairs (the
+Members or such other Person being referred to herein as the “Liquidating Agent”) shall immediately proceed to wind up the affairs of the
+Company. The Members will continue to share profits and losses during the period of liquidation in accordance with Article V.
+
+ 
+7.3.2 Distribution of Assets. Following the payment of, or provision for, all debts and liabilities (including liabilities to Members
+
+who are also creditors, to the extent otherwise permitted by law, other than liabilities to Members for distributions and the return of capital) of
+
+ 
+10
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+the Company and all expenses of liquidation, and subject to the right of the Liquidating Agent to set up such cash reserves as the Liquidating
+Agent may deem reasonably necessary for any contingent or unforeseen liabilities or obligations of the Company, the proceeds of the liquidation
+and any other funds (or other remaining assets) of the Company will be distributed in cash to the Members in accordance with their positive capital
+accounts, after reflecting final allocations, pursuant to Article V.
+ 
+
+7.3.3 No Recourse to Assets of Members. Each Member will look solely to the assets of the Company for all distributions with
+
+respect to the Company and such Member’s capital contributions thereto and share of profits or losses thereof, and will have no recourse therefore
+(upon dissolution of the Company or otherwise) against any other Member.
+
+ 
+
+7.4 Termination of the Company. Upon the completion of the liquidation of the Company and the distribution of all Company funds and
+other assets, the Company shall be deemed to be terminated and the Liquidating Agent will have the authority to take or cause to be taken such
+actions as are necessary or reasonable in order to obtain a certificate of cancellation of the Company as well as any and all other documents
+required by the Act or any other applicable law to effectuate the dissolution and termination of the Company.
+
+ 
+7.5 Election to Continue the Company. Notwithstanding any other provision of this Article VII, upon an event of dissolution described in
+Section 7.1(a), the Company shall be dissolved and wound-up and liquidated pursuant to this Article VII, unless the Members elect, by unanimous
+vote, within ninety (90) days after such event, to continue the business of the Company. Upon the election by the Members to continue the
+business of the Company, the continuing limited liability company shall continue to be subject to the terms of this Agreement.
+
+ 
+7.6 Bankruptcy. In addition to any dissolution of the Company which would occur under Section 7.1(a), in the event that a Member shall
+become insolvent or shall have part of all of its property seized or subjected to any attachment that could reasonably be expected materially and
+adversely to affect its performance under this Agreement (the “Bankrupt Member”), a Member other than the Bankrupt Member, upon written
+notice to the Bankrupt Member, shall have the right to terminate this Agreement and to take such actions as are necessary to liquidate the assets of
+the Company and dissolve the Company as promptly as practicable.
+
+ 
+
+ARTICLE VIII
+
+FISCAL AND TAX MATTERS
+
+ 
+
+8.1 Fiscal Year. The fiscal year of the Company will begin on the first day of January and end on the last day of December of each year,
+
+unless otherwise agreed to by the unanimous consent of all Members.
+
+ 
+8.2 Deposits. All funds of the Company will be deposited from time to time to the credit of the Company in such banks, trust companies
+
+or other depositories as the Members may collectively select.
+
+ 
+11
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+8.3 Checks, Drafts, Etc. All checks, drafts or other orders for the payment of money, and all notes or other evidences of indebtedness
+
+issued in the name of the Company will be signed by such officers agreed upon by the Members.
+
+ 
+8.4 Books and Records. The Company will keep or cause to be kept accurate and complete minutes and records of the meetings of the
+
+Members and books and records of account of the Company, which will be kept at the principal place of business of the Company or at such other
+places, within or without the State of Delaware, as the Members from time to time determine.
+
+ 
+
+8.4.1 Right of Inspection. Any Member of the Company will have the right to examine at any reasonable time or times for any
+purpose, the minutes and records of the meetings of the Members and the books and records of account of the Company, and to make copies
+thereof. Upon the written request of any Member of the Company, the Company will cause to be mailed to such Member the most recent financial
+statements of the Company, showing in reasonable detail its assets and liabilities and the results of its operations. Such inspection may be made by
+any agent or duly appointed attorney of the Member making such request.
+
+ 
+8.4.2 Financial Records. All books and records of account of the Company will be maintained and reported based upon generally
+
+accepted accounting principles in such form and in accordance with such procedures as agreed upon from time to time by the Members.
+
+ 
+
+8.5 Tax Matters.
+ 
+
+8.5.1 “Tax Matters Partner”. GGC will be the “Tax Matters Partner” (as defined in Section 6231 of the Code) until such time as a
+
+new Tax Matters Partner may be designated by the Members. The Tax Matters Partner is authorized and required to represent the Company (at the
+Company’s expense) in connection with all examinations of the Company’s affairs by tax authorities, including administrative and judicial
+proceedings, and to expend Company funds for professional services and costs associated therewith.
+
+ 
+8.5.2 Cooperation. Each Member agrees to cooperate with the Tax Matters Partner and to do or refrain from doing any or all
+
+things reasonably requested by the Tax Matters Partner with respect to the conduct of such proceedings.
+
+ 
+8.5.3 Filings. The Tax Matters Partner will arrange for the preparation and timely filing of all returns required to be filed by the
+
+Company and the distribution of Form K-l or other similar forms to all Members.
+
+ 
+12
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+
+ARTICLE IX
+
+MISCELLANEOUS
+
+ 
+
+9.1 Notices.
+ 
+All notices, demands, consents, approvals, requests or other communications which any of the parties to this Agreement may desire or be
+
+required to give hereunder (collectively, “Notices”) will be in writing and will be given by (a) personal delivery, (b) facsimile transmission, or (c)
+delivery to Federal Express or another nationally recognized overnight courier service, fees prepaid, addressed as follows:
+
+ 
+
+If to GGC, to:
+ 
+Georgia Gulf Corporation
+400 Perimeter Center Terrace
+Suite 595
+Atlanta, Georgia 30346
+Attention: Joel Beerman
+Facsimile: (770) 390-9673
+ 
+
+Any party hereto may designate another addressee (and/or change its address) for Notices hereunder by a Notice given pursuant to this Section
+9.1. A Notice sent in compliance with the provisions of this Section 9.1 will be deemed given on the date delivered personally or sent by facsimile
+or, if sent by courier, on the next business day following delivery to the courier service.
+ 
+
+Whenever any Notice is required to be given by any Legal Requirement or this Agreement, a waiver thereof in writing, signed by the
+
+Person entitled to such Notice, whether before or after the time of the event for which Notice is to be given, shall be deemed equivalent to such
+Notice. Attendance of a Member at a meeting shall constitute a waiver of Notice of such meeting, except when such Member attends such meeting
+for the express purpose of objecting, at the beginning of the meeting, to the transaction of any Company business because the meeting has not
+been properly called or convened and does not further participate in the business of the meeting.
+
+ 
+9.2 Successors and Assigns. This Agreement will be binding upon and inure to the benefit of parties hereto and their respective permitted
+successors and assigns. Neither this Agreement nor any right hereunder may be assigned by any party hereto without the prior written consent of
+the other parties hereto.
+
+ 
+9.3 Extension Not a Waiver. No delay or omission in the exercise of any power, remedy or right herein provided or otherwise available to
+any party hereto will impair or affect the right of such party thereafter to exercise the same. Any extension of time or other indulgence granted to
+any party hereunder will not otherwise alter or affect any power, remedy or right of any other party hereto, or the obligations of the party to whom
+such extension or indulgence is granted.
+
+ 
+13
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+9.4 Entire Agreement. This Agreement sets forth the entire agreement between the parties relating to the subject matter hereof and all prior
+agreements relative thereto which are not contained herein or therein are terminated. Amendments, variations, modifications or changes herein may
+be made effective and binding upon the parties hereto by, and only by, a written agreement duly executed by each Member, and any alleged
+amendment, variation, modification or change herein which is not so documented will not be effective as to any party hereto.
+
+ 
+9.5 Interpretation. Whenever reference is made in this Agreement to the Company doing or not doing an action, such reference shall imply
+
+on the Members an obligation to cause the Company to do or refrain from doing such action.
+
+ 
+9.6 Governing Law. This Agreement, and the application or interpretation thereof, shall be governed exclusively by its terms and by the
+
+laws of the State of Delaware, and without reference to its principles of conflicts of law.
+
+ 
+9.7 Termination. Upon dissolution of the Company or other termination of this Agreement, this Agreement shall terminate without any
+
+liability on the part of either party.
+
+ 
+9.8 Severability. If any provision of this Agreement or the application thereof to any Person or circumstance shall be invalid, illegal or
+
+unenforceable to any extent, the remainder of this Agreement and the application thereof shall not be affected and shall be enforceable to the fullest
+extent permitted by law.
+
+ 
+9.9 Waivers. The failure at any time of any Member to require performance by any other Member of any responsibility or obligation
+
+provided for in Agreement shall in no way affect the full right to require such performance at any time thereafter, nor shall the waiver by either
+Member or the Company of a breach of any provision of this Agreement by the other Member or the Company constitute a waiver of any
+succeeding breach of the same or any other obligation itself.
+
+ 
+9.10 Headings. The headings of all Articles and Sections contained in this Agreement are for convenience of reference only and do not
+
+form a part of this Agreement and shall not in any way affect the interpretation hereof.
+
+ 
+9.11 Payment Terms. All Members shall make any payments to other Members required hereunder net fifteen (15) days from the due date
+
+or date of the invoice in respect of such payments.
+
+ 
+9.12 Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which
+
+together shall constitute but one and the same agreement.
+
+ 
+14
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+ 
+IN WITNESS WHEREOF, the undersigned being all of the Members, have executed this Agreement as of the date and year first above
+
+ 
+
+GEORGIA GULF CORPORATION
+ 
+ 
+ 
+ 
+ 
+By:
+ 
+ 
+
+/s/ Joel I. Beerman
+ 
+Name: JOEL I. BEERMAN
+ 
+Title: VICE PRESIDENT
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+15
+
+written.
+
+ 
+
+       
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Source: AXIALL CORP/DE/, S-4, 3/25/2014
+
+
