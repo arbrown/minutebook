@@ -1,8 +1,9 @@
 import minute_book
+import os
 
 # data locations
 
-train_path = '/home/matt/GitHub/minutebook/Data/upload_folder/'
+train_path = os.getenv('HOME') + '/GitHub/minutebook/Data/upload_folder/'
 # test_path = '/home/matt/MinuteBook/Data/Test/'
 
 # runs the minute book functions
