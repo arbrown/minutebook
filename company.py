@@ -1,10 +1,8 @@
-
 def extraction(docs):
 
     company_tags = ['llc', 'l.l.c', 'inc', 'inc.']
     compnay_tags_short = ['llc', 'inc']
     company_dict = {'llc': ['llc', 'l.l.c'], 'inc': ['inc', 'inc.']}
-    company_names = []
 
     def clean_company_names(company_names):
         # cleans up the company names
@@ -23,7 +21,7 @@ def extraction(docs):
         new_cn = []
         for c1 in company_names:
             keep = True
-            # tests if we want c1 in our new list            
+            # tests if we want c1 in our new list
             for c2 in company_names:
                 if c1.lower() != c2.lower() and c2.lower() in c1.lower():
                     keep = False
@@ -45,16 +43,14 @@ def extraction(docs):
             if keep:
                 new_cn.append(c1)
 
-        # print(new_cn)
-
         return(new_cn)
 
 
     def combine_entries(list_a, list_b):
 
         # converts everything to lower
-        list_a = [a.lower() for a in list_a]        
-        list_b = [b.lower() for b in list_b]        
+        list_a = [a.lower() for a in list_a]
+        list_b = [b.lower() for b in list_b]
 
         new_a = list_a
         offset = 0
@@ -83,7 +79,7 @@ def extraction(docs):
 
 
     def udpate_sentences(text, comp_names):
-        # this formats the company names so they are a single 
+        # this formats the company names so they are a single
         # entry in the sentence list
         for c in comp_names:
             for i in range(len(text)):
@@ -111,6 +107,7 @@ def extraction(docs):
 
     # loops through the docs
     for i in range(len(docs)):
+        company_names = []
         text = docs[i].info['text']
 
         # standarizes the company titles
@@ -131,12 +128,11 @@ def extraction(docs):
                         back_i += 1
                     company_names.append(company_name)
         
-                    # print(s)
-                    # print(company_name)
 
         company_names = clean_company_names(company_names) # removes erronious names
-        docs[i].info['company_names'] = company_names # adds the company names to the doc object
-        docs[i].info['text'] = udpate_sentences(text, company_names) # updates the sente
+        
+        docs[i].info['company_names'] = list(company_names) # adds the company names to the doc object
+        docs[i].info['text'] = list(udpate_sentences(text, company_names)) # updates the sente
 
     # returns the updated docs
     return(docs)

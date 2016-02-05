@@ -1,54 +1,45 @@
 import pandas as pd
 
-class company_extract(object):
+class grade(object):
 
-	def __init__(self, answer_path, results_path):
-		answers = pd.read_csv(answer_path)
-		results = pd.read_csv(results_path)
+    def __init__(self, docs, answer_path, results_path):
+        # reads in the answer key
+        df_answers = pd.read_csv(answer_path)
+        answers = df_answers.values.tolist()
+        grade = []
+        # combines all the docs into a single list
+        results = []
+        for d in docs:
+            file_name = d.info['file_name']
+            comp_names = list(d.info['company_names'])
+            results = results + [[file_name, c] for c in comp_names]
 
-		answers = answers.values.tolist()
-		results = results.values.tolist()
-
-		# calculates the amount correct, missed and erroneous
-		correct = []
-		missed = []
-		erroneous = []
-
-		for r in results:
-			found = False
-			for a in answers:
-				if r[0].lower() == a[0].lower() and r[1].lower() == a[1].lower():
-					found = True
-					correct.append(r)
-					break
-
-			if found == False:
-				erroneous.append(r)
-
-		for a in answers:
-			found = False
-			for r in results:
-				if r[0].lower() == a[0].lower() and r[1].lower() == a[1].lower():
-					found = True
-					break
-
-			if found == False:
-				missed.append(a)
-
-		print('correct')
-		for c in correct:
-			print(c)
-		print('\n')		
-		print('erroneous')
-		for e in erroneous:
-			print(e)
-		print('\n')
-		print('missed')
-		for m in missed:
-			print(m)
-		print('\n')
-
-		print('correct: ' + str(len(correct)))
-		print('erroneous: ' + str(len(erroneous)))
-		print('missed: ' + str(len(missed)))
-		print('accuracy: ' + str(len(correct) / float(len(correct) + len(erroneous) + len(missed))))
+        # labels the ones that were correct and missing
+        for a in answers:
+            found = False
+            for r in results:
+                if r[0].lower() == a[0].lower() and r[1].lower() == a[1].lower():
+                    found = True
+                    grade.append('matched')
+                    break
+            
+            if found == False:
+                grade.append('not found')
+        
+        df_answers['grade'] = grade
+        
+        # labels teh ones that were not in the key
+        for r in results:
+            found = False
+            for a in answers:
+                if r[0].lower() == a[0].lower() and r[1].lower() == a[1].lower():
+                    found = True
+                    break
+                
+            if found == False:
+                append_dict = {'document': r[0], 'company': r[1], 'grade': 'extra'}
+                
+                df_answers = df_answers.append(append_dict, ignore_index = True)
+        
+        # saves the results
+        df_answers.to_csv(results_path)
